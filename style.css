@@ -1,0 +1,14 @@
+
+*{margin:0px; padding:0px;}
+ul{list-style:none;}
+a{text-decoration:none;}
+
+header {
+   width:800px; height:400px;
+   background-image: url("smoke.webp");
+}
+#logo{
+   width:800px; height:400px;
+   background-image: url("smoke.webp");
+}
+
